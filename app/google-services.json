@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1090598622188",
+    "project_id": "institutelogintask",
+    "storage_bucket": "institutelogintask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090598622188:android:d5b20f810e5d0a28c526c9",
+        "android_client_info": {
+          "package_name": "com.firstapp.institutelogintask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090598622188-jj6g9ga5j2tn33b7v71jl6dabki5u19l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstapp.institutelogintask",
+            "certificate_hash": "b8eca09c2fde6657419ca8d954d9ee446c3bf8c1"
+          }
+        },
+        {
+          "client_id": "1090598622188-kou4ruos50sjflrovv2mn7fek9psd6ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArcgvsLs1__wYssxsjIhG4h1PjXu_ObRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090598622188-kou4ruos50sjflrovv2mn7fek9psd6ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
